@@ -1,0 +1,12 @@
+apiVersion: v1
+entries:
+  cfx-rda-api:
+  - apiVersion: v1
+    appVersion: "1"
+    created: "2022-03-22T02:15:41.934732029-04:00"
+    digest: 7c8392fa9e39658579667a9ab53186bce72c5cf639fcddeb52589206eb515d1b
+    name: cfx-rda-api
+    urls:
+    - https://shamamabutul19.github.io/helm-cfx-rda-api/cfx-rda-api-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-03-22T02:15:41.931474404-04:00"
